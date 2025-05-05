@@ -132,9 +132,9 @@ Feel free to use and modify for personal or commercial use.
 ---
 
 ## 👨‍💻 Author
-[Shrinidhi Upadhyaya](https://github.com/Shrinidhi972004)
-[Sudhama Bhat](https://github.com/Sudhama-bhat)
-[Shamanth Krishna V R](https://github.com/Shamanth-k)
+[Shrinidhi Upadhyaya](https://github.com/Shrinidhi972004).
+[Sudhama Bhat](https://github.com/Sudhama-bhat).
+[Shamanth Krishna V R](https://github.com/Shamanth-k).
 
 
 
